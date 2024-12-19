@@ -1,1 +1,1 @@
-# CSEdge-Internship
+# CSEdge-Web-Development-Internship
